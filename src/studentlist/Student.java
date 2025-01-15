@@ -13,7 +13,7 @@ public class Student {
     private String studentID;
     private String address;
 
-    public String getName() {
+    public String getName() {   
         return name;
     }
 
